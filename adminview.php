@@ -74,7 +74,7 @@
               <div class="card-body-icon">
                 <i class="fa fa-fw fa-book"></i>
               </div>
-              <div class="mr-5">Exam time table</div>
+              <div class="mr-5">Exam timetable</div>
             </div>
             <a class="card-footer text-white clearfix small z-1" href="exam_time_table_view.php">
               <span class="float-left">View Details</span>
